@@ -25,4 +25,3 @@ process.on('SIGINIT', () => {
     console.log('Shutting down');
     process.exit(0);
 });
-// voltei, tinha ido resolver uma coisa
